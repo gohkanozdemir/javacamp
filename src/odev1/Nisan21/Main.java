@@ -11,7 +11,7 @@ public class Main {
 		CourseProgram[] courseProgram = {new CourseProgram("1. Gün - 21 Nisan 2021", "JAVA Temelleri 1, Değişkenler, şart blokları, döngüler, diziler", homeworks1),
 										 new CourseProgram("2. Gün - 24 Nisan 2021", "JAVA Temelleri 2", homeworks2)};
 		
-		Course course = new Course("Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)", "Engin Demirog", 30, courseProgram);
+		Course course = new Course("Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)", "Engin Demirog", courseProgram);
 		
 		Student student1=new Student(1,"Hakan","Hakli","passWord1");
 		Student student2=new Student(2,"Ahmet","Hakyemez","passWord2");
