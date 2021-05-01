@@ -1,11 +1,11 @@
 package odev2.gun3.nisan28;
 
 public class User {
-	public int id;
-	public String firstName;
-	public String lastName;
-	public String password;
-	public String email;
+	private int id;
+	private String firstName;
+	private String lastName;
+	private String password;
+	private String email;
 
 	public int getId() {
 		return id;

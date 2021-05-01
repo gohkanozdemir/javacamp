@@ -1,9 +1,9 @@
 package odev1.Nisan21;
 
 public class Course {
-	public String courseName;
-	public String courseInstructor;
-	public CourseProgram courseProgram[];
+	private String courseName;
+	private String courseInstructor;
+	private CourseProgram courseProgram[];
 
 	/**
 	 * 

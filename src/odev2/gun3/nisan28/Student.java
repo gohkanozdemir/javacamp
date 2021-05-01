@@ -1,7 +1,7 @@
 package odev2.gun3.nisan28;
 
 public class Student extends User{
-	public int percentageOfCompletion;
+	private int percentageOfCompletion;
 
 	public int getPercentageOfCompletion() {
 		return percentageOfCompletion;

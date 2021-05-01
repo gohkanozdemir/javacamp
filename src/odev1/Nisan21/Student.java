@@ -1,11 +1,11 @@
 package odev1.Nisan21;
 
 public class Student {
-	public int id;
-	public String firstName;
-	public String lastName;
-	public String password;
-	public int percentageOfCompletion;
+	private int id;
+	private String firstName;
+	private String lastName;
+	private String password;
+	private int percentageOfCompletion;
 	
 	public Student() {}
 	

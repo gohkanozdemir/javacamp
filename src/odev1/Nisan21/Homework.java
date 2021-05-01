@@ -1,8 +1,8 @@
 package odev1.Nisan21;
 
 public class Homework {
-	public String homeworkName;
-	public String description;
+	private String homeworkName;
+	private String description;
 
 	/**
 	 * 
