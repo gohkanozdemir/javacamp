@@ -1,4 +1,4 @@
-package odev1.Nisan21;
+package odev1.gun1;
 
 public class CourseManager {
 	public void signUp(Student student) {

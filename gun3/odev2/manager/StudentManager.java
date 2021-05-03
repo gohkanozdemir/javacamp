@@ -1,4 +1,6 @@
-package odev2.gun3.nisan28;
+package odev2.manager;
+
+import odev2.model.Student;
 
 public class StudentManager extends UserManager {
 	public void add(Student student) {

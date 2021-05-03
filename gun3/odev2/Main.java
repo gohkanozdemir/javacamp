@@ -1,4 +1,9 @@
-package odev2.gun3.nisan28;
+package odev2;
+
+import odev2.manager.InstructorManager;
+import odev2.manager.StudentManager;
+import odev2.model.Instructor;
+import odev2.model.Student;
 
 public class Main {
 
